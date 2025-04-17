@@ -14,8 +14,8 @@ class Solution {
                 for(int j=0;j<al.size();j++){
                     for(int l=j+1;l<al.size();l++){
                         if((al.get(j)*al.get(l))%k==0){
-                            System.out.print(al.get(j)+" ");
-                            System.out.println(al.get(l));
+                            // System.out.print(al.get(j)+" ");
+                            // System.out.println(al.get(l));
                             count++;
                         }
                     }
