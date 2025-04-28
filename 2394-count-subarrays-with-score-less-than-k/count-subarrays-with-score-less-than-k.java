@@ -9,7 +9,7 @@ class Solution {
                 score-=nums[i];
                 i++;
             }
-            res+=(long)j-i+1;
+            res+=j-i+1;
             j++;
         }
         return res;
