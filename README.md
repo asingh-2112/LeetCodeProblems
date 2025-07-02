@@ -15,6 +15,7 @@
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
