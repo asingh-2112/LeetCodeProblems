@@ -27,6 +27,7 @@
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
