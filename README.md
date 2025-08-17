@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -168,10 +170,15 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
