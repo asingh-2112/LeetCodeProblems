@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -118,6 +119,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Depth-First Search
 |  |
@@ -141,6 +143,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 ## Stack
 |  |
