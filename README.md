@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -67,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
@@ -143,6 +145,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 ## Stack
