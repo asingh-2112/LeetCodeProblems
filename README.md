@@ -14,6 +14,7 @@
 | ------- |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
+| [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -183,8 +185,13 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
