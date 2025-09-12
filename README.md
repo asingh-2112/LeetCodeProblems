@@ -24,6 +24,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -49,6 +50,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Dynamic Programming
 |  |
