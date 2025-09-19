@@ -9,6 +9,7 @@
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
+| [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -196,4 +200,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
