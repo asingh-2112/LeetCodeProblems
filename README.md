@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -13,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
@@ -20,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
