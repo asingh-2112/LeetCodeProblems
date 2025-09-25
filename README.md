@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0120-triangle) |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
