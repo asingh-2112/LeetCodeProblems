@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
@@ -83,6 +84,7 @@
 | [0120-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
+| [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
