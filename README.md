@@ -18,6 +18,7 @@
 | [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1642-water-bottles) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Depth-First Search
 |  |
