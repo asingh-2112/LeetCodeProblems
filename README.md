@@ -83,6 +83,7 @@
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
@@ -131,6 +132,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
@@ -157,11 +159,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
 | [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
