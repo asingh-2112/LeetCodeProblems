@@ -103,6 +103,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1642-water-bottles) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Depth-First Search
 |  |
 | ------- |
