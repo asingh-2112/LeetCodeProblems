@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2479-meeting-rooms-iii) |
@@ -89,6 +92,7 @@
 | [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
