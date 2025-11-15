@@ -38,6 +38,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Heap (Priority Queue)
@@ -212,6 +214,7 @@
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Brainteaser
 |  |
 | ------- |
