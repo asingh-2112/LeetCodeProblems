@@ -109,6 +109,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -132,6 +133,7 @@
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [3618-find-the-original-typed-string-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -182,6 +184,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0733-flood-fill) |
+| [2625-increment-submatrices-by-one](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [3797-design-spreadsheet](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
