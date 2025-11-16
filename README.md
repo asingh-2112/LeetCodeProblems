@@ -21,6 +21,7 @@
 | [0830-largest-triangle-area](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/asingh-2112/LeetCodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -31,6 +32,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/asingh-2112/LeetCodeProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/asingh-2112/LeetCodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/asingh-2112/LeetCodeProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
